@@ -1,12 +1,13 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Kobe Limon]
+## [Assignment 3]
+## [Submission date: 02/24/26]
 ## Worked with/sources 
-* example
-* example
-* example
+* https://pkg.go.dev/os
+* https://pkg.go.dev/sort
+* https://stackoverflow.com/questions/14668850/list-directory-in-go
 * example
 ## Project Quirks/ Things that don't work
 * example
 * example
 * example
+
